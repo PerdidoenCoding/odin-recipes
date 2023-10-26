@@ -1,0 +1,48 @@
+/*  styles.css */
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 32px;
+}
+
+div {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+p {
+    color: black;
+    font-family: sans-serif;
+}
+ul {
+    text-align: center;
+    list-style-type:none;
+    padding: 0;
+}
+
+a {
+    color:darkblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: cadetblue;
+    text-decoration: wavy;
+}
+
+li {
+    color: black;
+    font-family: sans-serif;
+    margin-right: 10px;
+}
+
+img {
+    height: auto;
+    width: 1000px;
+    display: block;
+    margin: auto;
+}
